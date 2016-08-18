@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+You create the directory that will record the meta data for future commits.
+Without it one would just be saving failes, and not recording the commits.
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+It allows one to double check to make sure the files one is wanting to commit are included in the current commit.
